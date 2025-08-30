@@ -1,1 +1,4 @@
 res://cenas/menu.tscn
+res://cenas/instrucoes.tscn
+res://scripts/scripts-botoes/voltar-instrucoes.gd
+res://scripts/scripts-botoes/botao_instrucoes.gd
